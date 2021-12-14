@@ -11,4 +11,4 @@ This repo is a collection of AWESOME things about transferablity in **Reinforcem
 
 ### Papers
 - **Offline-to-Online Reinforcement Learning viaBalanced Replay and Pessimistic Q-Ensemble.** CoRL 2021.
-- *Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, Jinwoo Shin*
+  *Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, Jinwoo Shin*
